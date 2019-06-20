@@ -5,7 +5,7 @@ html,body{
     box-sizing: border-box;
 }
 body{
-    background: url(background.jpeg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.17),rgba(0, 0, 0, 0.78)),url(background.jpeg);
     background-position: center;
     background-size: cover;
 }
