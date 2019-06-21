@@ -12,10 +12,14 @@ html{
     font-weight: 300;
     font-size: 20px;
 }
-body{
+header{
     background-image: linear-gradient(rgba(0, 0, 0, 0.17),rgba(0, 0, 0, 0.78)),url(img/background.jpeg);
+    height: 100vh;
     background-position: center;
     background-size: cover;
+}
+.header-title{
+    margin: 0;
 }
 .row{
     max-width: 1140px;
