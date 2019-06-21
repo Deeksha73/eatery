@@ -21,6 +21,13 @@ header{
 .header-title{
     margin: 0;
 }
+.bg-text-box{
+    position: absolute;
+    width: 1140px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
 .row{
     max-width: 1140px;
     margin: 0 auto;
