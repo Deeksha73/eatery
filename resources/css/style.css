@@ -42,4 +42,11 @@ header{
     text-decoration: none;
     padding: 10px 30px;
     font-weight: 300;
+    border-radius: 200px;
+    color: #d9d3d3;
+}
+
+.btn-hungry{
+    color: white;
+    background-color: #9b59b6;
 }
