@@ -49,6 +49,7 @@ header{
 .btn-hungry{
     color: white;
     background-color: #9b59b6;
+    border: 1px solid #9b59b6;
 }
 
 .btn-show-more{
