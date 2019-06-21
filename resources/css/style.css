@@ -20,6 +20,11 @@ header{
 }
 .header-title{
     margin: 0;
+    font-weight: 300;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    word-spacing: 4px;
+    
 }
 .bg-text-box{
     position: absolute;
