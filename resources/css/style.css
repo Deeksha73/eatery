@@ -37,7 +37,7 @@ header{
     max-width: 1140px;
     margin: 0 auto;
 }
-.btn{
+.btn:link,.btn:visited{
     display: inline-block;
     text-decoration: none;
     padding: 10px 30px;
@@ -45,15 +45,16 @@ header{
     border-radius: 200px;
     color: #d9d3d3;
 }
-
-.btn-hungry{
-    color: white;
+.btn-hungry:link,.btn-hungry:visited{
     background-color: #9b59b6;
     border: 1px solid #9b59b6;
 }
 
-.btn-show-more{
+.btn-show-more:link,.btn-shiw-more:visited{
     color: #9b59b6;
     border: 1px solid;
     border-color: #9b59b6;
+}
+.btn:hover,.btn:active{
+    background-color: #690a69;
 }
