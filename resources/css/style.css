@@ -19,7 +19,7 @@ header{
     background-size: cover;
 }
 .header-title{
-    margin: 0;
+    margin: 15px 0 ;
     font-weight: 300;
     text-transform: uppercase;
     letter-spacing: 1px;
