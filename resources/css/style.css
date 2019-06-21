@@ -38,5 +38,7 @@ header{
     margin: 0 auto;
 }
 .btn{
-    
+    display: inline-block;
+    text-decoration: none;
+    padding: 10px 30px;
 }
