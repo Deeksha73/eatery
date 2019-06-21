@@ -50,3 +50,7 @@ header{
     color: white;
     background-color: #9b59b6;
 }
+
+.btn-show-more{
+    border: 1px solid;
+}
