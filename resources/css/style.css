@@ -26,7 +26,13 @@ header{
     word-spacing: 4px;
     
 }
-
+.bg-text-box{
+    position: absolute;
+    width: 1140px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-45%);
+}
 .row{
     max-width: 1140px;
     margin: 0 auto;
