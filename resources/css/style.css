@@ -44,7 +44,7 @@ header{
     font-weight: 300;
     border-radius: 200px;
     color: #d9d3d3;
-    transition: background-color 0.2s,color 0.2s;
+    
 }
 .btn-hungry:link,.btn-hungry:visited{
     background-color: #9b59b6;
