@@ -21,7 +21,13 @@ html{
 
 .main-nav{
     float: right;
+    list-style: none;
 }
+
+.main-nav li {
+    display: inline-block;
+}
+
 
 header{
     background-image: linear-gradient(rgba(0, 0, 0, 0.17),rgba(0, 0, 0, 0.78)),url(img/background.jpeg);
