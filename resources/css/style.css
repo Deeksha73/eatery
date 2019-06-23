@@ -39,7 +39,9 @@ html{
     border-bottom: 2px solid transparent;
     transition: border-bottom 0.2s;
 }
-
+.main-nav li a:hover,.main-nav li a:active{
+    border-bottom: 2px solid #9b59b6;
+}
 header{
     background-image: linear-gradient(rgba(0, 0, 0, 0.17),rgba(0, 0, 0, 0.78)),url(img/background.jpeg);
     height: 100vh;
