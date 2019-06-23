@@ -26,7 +26,10 @@ html{
     margin-top: 60px;
 }
 
-
+.main-nav li {
+    display: inline-block;
+    margin-left: 40px;
+}
 .main-nav li a:visited,.main-nav li a:link{
     text-decoration: none;
     padding: 8px 0;
