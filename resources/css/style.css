@@ -30,11 +30,14 @@ html{
     display: inline-block;
     margin-left: 40px;
 }
-.main-nav li a{
+.main-nav li a:visited,.main-nav li a:link{
     text-decoration: none;
+    padding: 8px 0;
     color: #fff;
     text-transform: uppercase;
     font-size: 18px;
+    border-bottom: 2px solid transparent;
+    transition: border-bottom 0.2s;
 }
 
 header{
