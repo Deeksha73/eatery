@@ -129,3 +129,15 @@ h3{
     text-transform:uppercase;
     font-weight: 300;
 }
+
+.box p{
+    font-size: 18px;
+    line-height: 25px;
+}
+.icon-big{
+    font-size:80px;
+    display: block;
+    color: #9b59b6;
+    margin-bottom: 10px;
+    
+}
