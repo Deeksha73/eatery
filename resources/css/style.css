@@ -61,8 +61,16 @@ header{
 }
 .section-title{
     word-spacing: 2px;
-    text-align: center;
-   
+    text-align: center;  
+}
+
+.section-title::after{
+    display: block;
+    height: 2px;
+    background-color:#9b59b6;
+    content: " ";
+    width: 100px;
+    margin: 30px auto;
 }
 .bg-text-box{
     position: absolute;
