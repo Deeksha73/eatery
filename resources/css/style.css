@@ -114,4 +114,11 @@ section{
     width: 100px;
     margin: 30px auto;
 }
-
+.food-details{
+    line-height: 30px;
+    width: 70%;
+    margin: auto;
+}
+.box{
+    
+}
