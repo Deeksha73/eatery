@@ -122,3 +122,10 @@ section{
 .box{
     padding: 2px;
 }
+
+h3{
+    font-family: 26px;
+    margin-bottom: 15px;
+    text-transform:uppercase;
+    font-weight: 300;
+}
