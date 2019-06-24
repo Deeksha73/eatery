@@ -20,6 +20,7 @@ html{
 }
 
 .main-nav{
+    
     float: right;
     list-style: none;
     margin-top: 60px;
@@ -42,6 +43,7 @@ html{
     border-bottom: 2px solid #9b59b6;
 }
 header{
+    color: #d9d3d3;
     background-image: linear-gradient(rgba(0, 0, 0, 0.17),rgba(0, 0, 0, 0.78)),url(img/background.jpeg);
     height: 100vh;
     background-position: center;
