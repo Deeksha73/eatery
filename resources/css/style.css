@@ -141,3 +141,14 @@ h3{
     margin-bottom: 10px;
     
 }
+
+.photos-showcase{
+    list-style: none;
+    width: 100%; 
+}
+
+.photos-showcase li{
+    display: block;
+    float: left;
+    width: 25%;
+}
