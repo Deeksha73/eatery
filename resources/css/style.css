@@ -165,7 +165,7 @@ h3{
     width: 100%;
     height: auto;
     transform: scale(1.15);
-    transition: transform 0.1s,opacity 0.1s;
+    transition: transform 0.5s,opacity 0.5s;
 }
 .meal-photo img:hover{
     transform: scale(1);
