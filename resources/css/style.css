@@ -164,7 +164,9 @@ h3{
     height: auto;
     transform: scale(1.15);
 }
-
+.meal-photo img:hover{
+    transform: scale(1);
+}
 .section-meals-imgs{
     padding: 0;
 }
