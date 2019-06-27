@@ -156,12 +156,13 @@ h3{
 .meal-photo{
     width: 100%;
     margin: 0;
+    overflow: hidden;
 }
 
 .meal-photo img {
-
     width: 100%;
     height: auto;
+    transform: scale(1.15);
 }
 
 .section-meals-imgs{
