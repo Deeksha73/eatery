@@ -141,7 +141,9 @@ h3{
     margin-bottom: 10px;
     
 }
-
+.section-features .food-details{
+    margin-bottom: 40px;
+}
 .photos-showcase{
     list-style: none;
     width: 100%; 
