@@ -100,8 +100,8 @@ header{
 .btn-show-more:hover,.btn-show-more:active{
     color: #d9d3d3; 
 }
-
-section{
+ 
+.section-features{
     padding: 80px 0;
 }
 
@@ -149,7 +149,7 @@ h3{
 }
 
 .photos-showcase li{
-    display: block;
+    display: inline-block;
     float: left;
     width: 25%;
 }
@@ -174,4 +174,10 @@ h3{
 }
 .section-meals-imgs{
     padding: 0;
+    height: 480px;
+
+}
+.working-heading{
+    width: 100%;
+    margin-left: 100px;
 }
