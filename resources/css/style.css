@@ -275,3 +275,8 @@ blockquote{
     font-style: italic;
     line-height: 29px;
 }
+
+cite{
+    font-size: 19px;
+    margin-top: 25px;
+}
