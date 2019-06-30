@@ -181,3 +181,24 @@ h3{
     width: 100%;
     margin-left: 100px;
 }
+
+.steps-box{
+    margin-top: 30px;
+}
+
+.steps-box:first-child{
+    float: left;
+    padding-left: 15%;
+}
+
+.steps-box:last-child{
+    padding-left: 3%;
+}
+
+.phone-screen{
+    width: 60%;
+}
+
+.works-step{
+    margin-bottom: 50px;
+}
