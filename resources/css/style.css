@@ -208,5 +208,8 @@ h3{
     border: 2px solid #690a69;
     display: inline-block;
     border-radius: 50%;
-   
+    height: 55px;
+    width: 55px;
+    text-align: center;
+    padding: 5px;
 }
