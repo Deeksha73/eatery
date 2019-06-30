@@ -206,5 +206,6 @@ h3{
 .works-step div{
     color: #690a69;
     border: 2px solid #690a69;
-  
+    display: inline-block;
+    
 }
