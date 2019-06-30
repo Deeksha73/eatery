@@ -271,5 +271,7 @@ h3{
 }
 
 blockquote{
-    
+    padding: 2%;
+    font-style: italic;
+    line-height: 29px;
 }
