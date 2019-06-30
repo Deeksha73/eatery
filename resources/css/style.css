@@ -228,3 +228,8 @@ h3{
     height: 0;
     visibility: hidden;
 }
+
+.box img{
+    width: 100%;
+    height: 200px;
+}
