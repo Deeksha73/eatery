@@ -248,3 +248,9 @@ h3{
     vertical-align: middle;
     margin-right: 10px;
 }
+.twitter-link:link ,.twitter-link:active{
+    color: #9b59b6;
+    text-decoration: none;
+    padding-bottom: 1px;
+    border-bottom: 1px solid #9b59b6;
+} 
