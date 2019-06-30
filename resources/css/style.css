@@ -47,6 +47,7 @@ header{
     height: 100vh;
     background-position: center;
     background-size: cover;
+    background-attachment: fixed;
 }
 .header-title,.section-title{
     font-weight: 300;
@@ -264,4 +265,11 @@ h3{
     background-image: linear-gradient(rgba(0, 0, 0, 0.8),rgba(0, 0, 0, 0.8)),url(img/food.jpeg);
     background-size: cover;
     color: #fff;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    background-attachment: fixed;
+}
+
+blockquote{
+    
 }
