@@ -235,7 +235,11 @@ h3{
     height: auto;
     margin-bottom: 15px;
 }
-
+.section-cities{
+    background-color: rgba(230, 220, 220, 0.13);
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
 .city-feature{
     margin-bottom: 5px;
 }
@@ -276,7 +280,9 @@ blockquote{
     line-height: 29px;
 }
 blockquote:before{
-    content: "/"
+    content: "\201C";
+    font-style: italic;
+    font-size: 80px;
 }
 
 cite{
