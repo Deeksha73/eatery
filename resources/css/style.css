@@ -174,14 +174,14 @@ h3{
 }
 .section-meals-imgs{
     padding: 0;
-    height: 480px;
-
 }
 .working-heading{
     width: 100%;
     margin-left: 100px;
 }
-
+.steps-section{
+    margin-top: 40px;
+}
 .steps-box{
     margin-top: 30px;
 }
@@ -212,4 +212,19 @@ h3{
     width: 55px;
     text-align: center;
     padding: 5px;
+    float: left;
+    font-size: 30px;
+    margin-right: 25px;
+}
+.steps-info{
+    margin-top: 50px;
+}
+
+.clearfix{zoom:1}
+.clearfix::after{
+    content: '.';
+    clear: both;
+    display: block;
+    height: 0;
+    visibility: hidden;
 }
