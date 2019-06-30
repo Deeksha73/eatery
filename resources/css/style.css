@@ -202,3 +202,9 @@ h3{
 .works-step{
     margin-bottom: 50px;
 }
+
+.works-step div{
+    color: #690a69;
+    border: 2px solid #690a69;
+  
+}
