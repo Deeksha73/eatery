@@ -64,10 +64,7 @@ header{
     left: 50%;
     transform: translate(-50%,-45%);
 }
-.row{
-    max-width: 1140px;
-    margin: 0 auto;
-}
+
 .btn:link,.btn:visited{
     display: inline-block;
     text-decoration: none;
@@ -299,4 +296,9 @@ cite img{
     letter-spacing: 1px;
     word-spacing: 2px;
     text-align: center;  
+}
+
+.row{
+    max-width: 1140px;
+    margin: 0 auto;
 }
