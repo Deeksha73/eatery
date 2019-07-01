@@ -294,7 +294,6 @@ h3{
     text-transform:uppercase;
     font-weight: 300;
 }
-
 .clearfix{zoom:1}
 .clearfix::after{
     content: '.';
