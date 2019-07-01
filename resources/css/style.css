@@ -57,14 +57,6 @@ header{
     color: #fff;
     word-spacing: 4px;
 }
-.section-title{
-    font-weight: 300;
-    text-transform: uppercase;
-    letter-spacing: 1px;
-    word-spacing: 2px;
-    text-align: center;  
-}
-
 .bg-text-box{
     position: absolute;
     width: 1140px;
@@ -297,4 +289,14 @@ cite img{
     border-radius: 50%;
     margin-right: 10px;
     vertical-align: middle;
+}
+
+/*--------------------------------------REUSABLE CONTENT----------------------*/
+
+.section-title{
+    font-weight: 300;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    word-spacing: 2px;
+    text-align: center;  
 }
