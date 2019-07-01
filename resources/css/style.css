@@ -11,7 +11,7 @@ html{
     font-weight: 300;
     font-size: 20px;
 }
-
+/*---------------------------------------HEADER--------------------------------*/
 .img-logo{
     height: 100px;
     width: auto;
@@ -49,17 +49,18 @@ header{
     background-size: cover;
     background-attachment: fixed;
 }
-.header-title,.section-title{
+.header-title{
     font-weight: 300;
     text-transform: uppercase;
     letter-spacing: 1px;
-}
-.header-title{
-    margin: 15px 0 ;
+     margin: 15px 0 ;
     color: #fff;
-    word-spacing: 4px; 
+    word-spacing: 4px;
 }
 .section-title{
+    font-weight: 300;
+    text-transform: uppercase;
+    letter-spacing: 1px;
     word-spacing: 2px;
     text-align: center;  
 }
