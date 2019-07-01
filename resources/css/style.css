@@ -110,14 +110,6 @@ header{
     margin: auto;
 }
 
-
-h3{
-    font-family: 26px;
-    margin-bottom: 15px;
-    text-transform:uppercase;
-    font-weight: 300;
-}
-
 .box p{
     font-size: 18px;
     line-height: 25px;
@@ -303,4 +295,11 @@ cite img{
 
 .box{
     padding: 2px;
+}
+
+h3{
+    font-family: 26px;
+    margin-bottom: 15px;
+    text-transform:uppercase;
+    font-weight: 300;
 }
