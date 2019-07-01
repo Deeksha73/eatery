@@ -11,7 +11,7 @@ html{
     font-weight: 300;
     font-size: 20px;
 }
-/*---------------------------------------HEADER--------------------------------*/
+/*----------------------------------------------HEADER------------------------------------------------*/
 .img-logo{
     height: 100px;
     width: auto;
@@ -91,7 +91,7 @@ header{
 .btn-show-more:hover,.btn-show-more:active{
     color: #d9d3d3; 
 }
-/*-----------------------------------FEATURES------------------------------------*/
+/*-------------------------------------------------FEATURES----------------------------------------------*/
 .section-features{
     padding: 80px 0;
 }
@@ -156,7 +156,7 @@ header{
 .section-meals-imgs{
     padding: 0;
 }
-/*---------------------------------------HOW IT WORKS ---------------------------*/
+/*---------------------------------------HOW IT WORKS ----------------------------------------------*/
 .working-heading{
     width: 100%;
     margin-left: 100px;
@@ -206,6 +206,7 @@ header{
     height: auto;
     margin-bottom: 15px;
 }
+/*--------------------------------------------CITIES--------------------------------------------*/
 .section-cities{
     background-color: rgba(230, 220, 220, 0.14);
     padding-top: 80px;
@@ -235,7 +236,7 @@ header{
     color: #555;
     border-bottom: 1px solid transparent;
 }
-
+/*-----------------------------------------------REVIEWS----------------------------------------------*/
 .section-reviews{
     background-image: linear-gradient(rgba(0, 0, 0, 0.8),rgba(0, 0, 0, 0.8)),url(img/food.jpeg);
     background-size: cover;
@@ -269,7 +270,7 @@ cite img{
     vertical-align: middle;
 }
 
-/*--------------------------------------REUSABLE CONTENT----------------------*/
+/*--------------------------------------REUSABLE CONTENT----------------------------------------------*/
 
 .section-title{
     font-weight: 300;
