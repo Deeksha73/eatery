@@ -91,7 +91,7 @@ header{
 .btn-show-more:hover,.btn-show-more:active{
     color: #d9d3d3; 
 }
- 
+/*-----------------------------------FEATURES------------------------------------*/
 .section-features{
     padding: 80px 0;
 }
@@ -109,9 +109,7 @@ header{
     width: 70%;
     margin: auto;
 }
-.box{
-    padding: 2px;
-}
+
 
 h3{
     font-family: 26px;
@@ -301,4 +299,8 @@ cite img{
 .row{
     max-width: 1140px;
     margin: 0 auto;
+}
+
+.box{
+    padding: 2px;
 }
