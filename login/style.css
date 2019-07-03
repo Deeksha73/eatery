@@ -3,7 +3,7 @@
     padding: 0;
     box-sizing: border-box;
 }
-html{
+html,body{
     height: 100%;
     width: 100%;
     text-rendering: optimizeLegibility;
@@ -47,4 +47,9 @@ input{
     cursor: pointer;
 
 }
+a{
+    text-decoration: none;
+}
+
+
 
