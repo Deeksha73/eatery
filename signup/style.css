@@ -25,5 +25,14 @@ form{
     position: absolute;
     transform: translate(-50%,-50%);
     text-align: center;
+    padding: 40px;
+}
+.signup-title{
+   font-family: 'Lobster', cursive;
+    margin-bottom: 40px;
+}
+
+.signup-title input{
+    padding: 10px;
 }
 
