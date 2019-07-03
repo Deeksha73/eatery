@@ -12,7 +12,7 @@ html{
     font-size: 20px;
 }
 body{
-    background-image: url(bg.jpeg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.8),rgba(0, 0, 0, 0.8)),url(bg.jpeg);
     background-position: center;
     background-size: cover;
 }
