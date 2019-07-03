@@ -30,11 +30,19 @@ form{
 .signup-title{
    font-family: 'Lobster', cursive;
     margin-bottom: 40px;
-    color: 
-}
+    color: #9b59b6;
 
+}
 input{
     padding: 10px;
     margin: 20px;
+}
+.submit-btn{
+    color: black;
+    background-color:#9b59b6;
+    border: 0;
+    border-radius: 10px;
+    width: 100px;
+
 }
 
