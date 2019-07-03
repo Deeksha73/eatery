@@ -14,3 +14,6 @@ html{
 form{
     padding: 10px; 
 }
+a[class="login"]:active,a[class="login"]:link,a[class="login"]:hover,a[class="login"]:visited{
+    color: #431755;
+}

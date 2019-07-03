@@ -47,9 +47,10 @@ input{
     cursor: pointer;
 
 }
-a{
+a:link,a:active{
     text-decoration: none;
 }
+
 a[class="home-link"]:link,a[class="home-link"]:active{
     color: rgb(255, 255, 255);
 }
@@ -58,6 +59,9 @@ a[class="home-link"]:hover,a[class="home-link"]:visited{
     padding-bottom: 5px;
     color: rgb(255, 255, 255);
 
+}
+a[class="register"]:active,a[class="login"]:link,a[class="login"]:hover,a[class="login"]:visited{
+    color: #431755;
 }
 .home{
     padding-top: 40px;
