@@ -30,9 +30,11 @@ form{
 .signup-title{
    font-family: 'Lobster', cursive;
     margin-bottom: 40px;
+    color: 
 }
 
-.signup-title input{
+input{
     padding: 10px;
+    margin: 20px;
 }
 
