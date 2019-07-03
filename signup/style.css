@@ -36,6 +36,7 @@ form{
 input{
     padding: 10px;
     margin: 20px;
+    width: 210px;
 }
 .submit-btn{
     color: black;
