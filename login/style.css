@@ -50,6 +50,19 @@ input{
 a{
     text-decoration: none;
 }
+a[class="home-link"]:link,a[class="home-link"]:active{
+    color: rgb(255, 255, 255);
+}
+a[class="home-link"]:hover,a[class="home-link"]:visited{
+    border-bottom: 2px solid #9b59b6;
+    padding-bottom: 5px;
+    color: rgb(255, 255, 255);
+
+}
+.home{
+    padding-top: 40px;
+    padding-left: 70px;
+}
 
 
 
