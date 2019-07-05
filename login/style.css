@@ -50,7 +50,6 @@ input{
 a:link,a:active{
     text-decoration: none;
 }
-
 a[class="home-link"]:link,a[class="home-link"]:active{
     color: rgb(255, 255, 255);
 }
