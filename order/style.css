@@ -15,3 +15,7 @@ nav{
     background-color: rgb(128, 0, 128);
     padding: 25px;
 }
+.heading-name{
+    color: white;
+    text-transform: uppercase;
+}
