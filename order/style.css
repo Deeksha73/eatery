@@ -18,4 +18,6 @@ nav{
 .heading-name{
     color: white;
     text-transform: uppercase;
+    font-family: 'Dancing Script', cursive;
+    font-weight: 700;
 }
