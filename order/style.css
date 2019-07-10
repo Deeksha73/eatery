@@ -11,4 +11,7 @@ html,body{
     font-weight: 300;
     font-size: 20px;
 }
-
+nav{
+    background-color: rgb(128, 0, 128);
+    padding: 25px;
+}
